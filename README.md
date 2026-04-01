@@ -63,5 +63,7 @@ cd apps/web && npm run build && npx wrangler pages deploy dist --project-name in
 ```
 
 ## Screenshots
+<img width="2864" height="1632" alt="shot2" src="https://github.com/user-attachments/assets/15af369e-3137-48b7-b361-d4202af5ada9" />
+
 <img width="2864" height="1632" alt="incident-reponse" src="https://github.com/user-attachments/assets/2e10f839-7248-4c28-b0c7-612afc5d435c" />
 
